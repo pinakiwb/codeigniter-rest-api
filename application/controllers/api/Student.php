@@ -18,7 +18,7 @@ class Student extends REST_Controller{
     INSERT: POST REQUEST TYPE
     UPDATE: PUT REQUEST TYPE
     DELETE: DELETE REQUEST TYPE
-    LIST: Get REQUEST TYPE
+    LIST: GET REQUEST TYPE
   */
 
   // POST: <project_url>/index.php/student
